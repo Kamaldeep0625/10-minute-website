@@ -12,6 +12,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    white-space: nowrap;
     padding: 0rem calc((100vw - 1300px) /2 );
 }
 /*Format Logo*/
