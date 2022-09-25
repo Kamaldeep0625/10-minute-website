@@ -69,7 +69,7 @@ button {
     border-radius: 50px;
 }
 button:hover {
-    background: white;
+    background: #522719;
     color: black;
 }
 .column-right {
